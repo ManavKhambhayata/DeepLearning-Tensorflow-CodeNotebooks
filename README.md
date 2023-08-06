@@ -1,7 +1,7 @@
-#Practice Notebooks 
+# Practice notes.
 
 ## Data
-Sourcess:-
+Material:-
 
 | Number | Notebook | Data/Model | Exercises & Extra-curriculum | Slides |
 | ----- |  ----- |  ----- |  ----- |  ----- |
